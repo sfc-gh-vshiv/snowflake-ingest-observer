@@ -29,3 +29,6 @@ Steps to implement:
     - Choose the table of choice to observe
     - Turn on auto-refresh at the bottom of the app and choose a refresh interval of choice. Best choice is to keep it same as the parameter `buffer.flush.time` in your kafka configuration
     
+
+
+***
