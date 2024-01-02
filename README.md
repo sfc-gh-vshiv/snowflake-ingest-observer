@@ -7,6 +7,6 @@ Here's a preview:
 
 <p align="center">
 
-![](https://github.com/sfc-gh-vshiv/snowflake-ingest-observer/blob/main/snowflake-ingest-observer.gif)
+<img src="https://github.com/sfc-gh-vshiv/snowflake-ingest-observer/blob/main/snowflake-ingest-observer.gif">
 
 </p>
