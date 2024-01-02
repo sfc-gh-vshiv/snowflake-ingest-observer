@@ -46,9 +46,9 @@ def human_readable_size(bytes):
    elif bytes < 1000000000:
        return f"{round(bytes / 1000 / 1000, 2)} MB"
    elif bytes < 1000000000000:
-       return f"{round(bytes / 1000 / 1000 / 1000, 2)} GB"
+       return f"{round(bytes / 1000 / 1000 / 1000, 3)} GB"
    else:
-       return f"{round(bytes / 1000 / 1000 / 1000 / 1000, 2)} TB"
+       return f"{round(bytes / 1000 / 1000 / 1000 / 1000, 3)} TB"
 
 
 ########################################################
